@@ -223,7 +223,7 @@ local stats = match.stats()
 			--log("game loaded: " .. filename)
 		
 		     -- TEAM ANTHEMS -- ATTEMPT TO PLAY THESE FIRST
-			if teamid == 174 and (tid == 65535 or tid == 115 or tid == 155 or tid == 156 or tid == 157 or tid == 158 or tid == 159) then
+			if teamid == 174 and (tid == 115 or tid == 155 or tid == 156 or tid == 157 or tid == 158 or tid == 159) then
 		        	tunnel_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\Teams\\Belgium\\Anderlecht_intro.mp3")
 			elseif teamid == 5191 and (tid == 65535 or tid == 115 or tid == 155 or tid == 156 or tid == 157 or tid == 158 or tid == 159) then
 		        	tunnel_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\Teams\\Belgium\\Antwerp_intro.mp3")
@@ -1151,7 +1151,7 @@ local stats = match.stats()
 			stop_tunnelanthem_quiet()
 			lineup_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\UEFA\\UEFA_Champions_League\\lineup_anthem.mp3")
 			log(string.format("lineup anthem starting: %s", lineup_anthem:get_filename()))
-			lineup_anthem:set_volume(6.0)
+			lineup_anthem:set_volume(50.0)
 			lineup_anthem:play()
 		elseif (tid == 3 or tid == 1027  or tid == 2051 or tid == 3075 or tid == 4099 or tid == 5123 or tid == 6147 or tid == 7171 or tid == 8195 or tid == 4) then
 			if cuproundid == 53 then
@@ -1855,9 +1855,9 @@ local stats = match.stats()
 		elseif tid == 54 then
 	        	halftime_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\United_States\\MLS_Cup\\intro_anthem.mp3")
 		elseif tid == 65535 then
-	        	halftime_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\Other\\Generic\\intro_anthem.mp3")
+				halftime_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\UEFA\\UEFA_Champions_League\\intro_anthem.mp3")
 		else
-	        	halftime_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\Other\\Unused\\intro_anthem.mp3")
+				halftime_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\UEFA\\UEFA_Champions_League\\intro_anthem.mp3")
 		end
 
 		log(string.format("halftime anthem starting: %s", halftime_anthem:get_filename()))
@@ -2033,9 +2033,9 @@ local stats = match.stats()
 		elseif tid == 54 then
 	        	fulltime_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\United_States\\MLS_Cup\\intro_anthem.mp3")
 		elseif tid == 65535 then
-	        	fulltime_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\Other\\Generic\\intro_anthem.mp3")
+				fulltime_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\UEFA\\UEFA_Champions_League\\intro_anthem.mp3")
 		else
-	        	fulltime_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\Other\\Unused\\intro_anthem.mp3")
+				fulltime_anthem = audio.new(ctx.sider_dir .. "content\\tournament_anth_tunnel\\UEFA\\UEFA_Champions_League\\intro_anthem.mp3")
 		end
 
                 stop_tunnelanthem()
