@@ -1,0 +1,353 @@
+# Map for badge-server
+# Format:
+# <tournament-id>, "<folder-path>"
+# Use # in front of the <tournament-id> to disable
+
+
+#EDIT MODE (Useful for sorting X Y patch positions)
+# 0, "Premier League"
+
+#EXHIBITION
+65535, "UCL"
+
+#INTERNATIONAL / CLUB
+#UEFA Champions League
+2, "UCL"
+3, "UCL"
+4, "UCL"
+1026, "UCL" 
+2050, "UCL" 
+3070, "UCL" 
+4098, "UCL" 
+5122, "UCL" 
+6146, "UCL" 
+7170, "UCL" 
+8194, "UCL"  
+1027, "UCL" 
+2051, "UCL" 
+3075, "UCL" 
+4099, "UCL" 
+5123, "UCL" 
+6147, "UCL" 
+7171, "UCL" 
+8195, "UCL" 
+
+#UEFA Europa League
+5, "UEL"
+6, "UEL" 
+1029, "UEL" 
+2053, "UEL" 
+3077, "UEL" 
+4101, "UEL" 
+5125, "UEL" 
+6149, "UEL" 
+7173, "UEL" 
+8197, "UEL" 
+9221, "UEL" 
+10245, "UEL" 
+11269, "UEL" 
+12293, "UEL" 
+
+#UEFA Super Cup
+7, "USC"
+
+#International Champions Cup
+105, "ICC"
+106, "ICC"
+107, "ICC"
+
+#FIFA Club World Cup
+1, "FIFA Club World Cup"
+
+#Copa Libertadores
+9, "Copa Libertadores"
+10, "Copa Libertadores"
+1033, "Copa Libertadores"
+2057, "Copa Libertadores"
+3081, "Copa Libertadores"
+4105, "Copa Libertadores"
+5129, "Copa Libertadores"
+6153, "Copa Libertadores"
+7177, "Copa Libertadores"
+8201, "Copa Libertadores"
+
+#AFC Champions League
+15, "AFC Champions League"
+16, "AFC Champions League"
+1039, "AFC Champions League"
+2063, "AFC Champions League"
+3087, "AFC Champions League"
+4111, "AFC Champions League"
+5135, "AFC Champions League"
+6159, "AFC Champions League"
+7183, "AFC Champions League"
+8207, "AFC Champions League"
+
+#Master League Testimonial
+103, "Testimonial"
+
+#World Selection Challenge
+108, "World Selection"
+
+#BELGIUM
+#Jupiler Pro League
+115, "Jupiler Pro League"
+155, "Jupiler Pro League"
+156, "Jupiler Pro League"
+157, "Jupiler Pro League"
+158, "Jupiler Pro League"
+159, "Jupiler Pro League"
+
+#Belgian Cup
+122, "Croky Cup"
+
+#Belgian Super Cup
+128, "Pro League Supercup"
+
+#ENGLAND
+#Premier League
+17, "Premier League"
+
+#FA Cup
+23, "FA Cup"
+
+#FA Community Shield
+86, "FA Community Shield"
+
+#Sky Bet Championship
+79, "EFL"
+
+#Sky Bet Play Offs
+83, "EFL Play Offs"
+
+#SPAIN
+#LaLiga EA Sports
+19, "LaLiga EA Sports"
+
+#Copa del Rey
+25, "Copa del Rey"
+
+#Supercopa de España
+87, "Supercopa de España"
+
+#LaLiga Hypermotion
+80, "LaLiga Hypermotion"
+
+#ITALY
+#Serie A
+18, "Serie A"
+
+#Serie B
+82, "Serie B"
+
+#Coppa Italia
+24, "Coppa Italia"
+
+#Supercoppa Italiana
+89, "Supercoppa Italiana"
+
+#Serie B Play Offs
+85, "Serie B Play Offs"
+
+#GERMANY
+#Bundesliga
+50, "Bundesliga"
+
+#DFB Pokal
+53, "DFB-Pokal"
+
+#DFL-Supercup
+95, "DFL-Supercup"
+
+#FRANCE
+#Ligue 1
+20, "Ligue 1"
+
+#Ligue 2
+81, "Ligue 2"
+
+#Coupe de France
+26, "Coupe de France"
+
+#Trophée des Champions
+88, "Trophée des Champions"
+
+#NETHERLANDS
+#Eredivisie
+21, "Eredivisie"
+
+#KNVB Cup
+27, "KNVB Cup"
+
+#Johan Cruyff Shield
+90, "Johan Cruyff Shield"
+
+#PORTUGAL
+#Taça de Portugal
+28, "Taça de Portugal"
+
+#Supertaça Cândido de Oliveira
+91, "Supertaça Cândido de Oliveira"
+
+SCOTLAND
+#SPFL
+133, "SPFL"
+134, "SPFL"
+135, "SPFL"
+136, "SPFL"
+
+#Scottish Cup
+137, "Scottish Cup"
+
+#DENMARK
+#3F Superliga
+141, "3F Superliga"
+147, "3F Superliga"
+148, "3F Superliga"
+149, "3F Superliga"
+150, "3F Superliga"
+151, "3F Superliga"
+
+#Sydbank Pokalen
+142, "Sydbank Pokalen"
+
+#SWITZERLAND
+#Swiss Super League
+117, "Swiss Super League"
+
+#Schweizer Cup
+124, "Schweizer Cup"
+
+#CHILE
+#Campeonato Chileno
+67, "Campeonato Chileno"
+
+#Copa Chile
+68, "Copa Chile"
+
+#MEXICO
+#Liga MX
+51, "Liga MX"
+166, "Liga MX"
+167, "Liga MX"
+
+#Copa MX
+54, "Copa MX"
+
+#ARGENTINA
+#Argentine Primera División
+30, "Argentine Primera División"
+
+#Copa Argentina
+59, "Copa Argentina"
+
+#Supercopa Argentina
+92, "Supercopa Argentina"
+
+#BRAZIL
+#Campeonato Brasileiro Série A
+29, "Campeonato Brasileiro Série A"
+
+#Copa do Brasil
+31, "Copa do Brasil"
+
+#COLOMBIA
+#Liga BetPlay Dimayor
+119, "Liga BetPlay Dimayor"
+160, "Liga BetPlay Dimayor"
+161, "Liga BetPlay Dimayor"
+168, "Liga BetPlay Dimayor"
+169, "Liga BetPlay Dimayor"
+
+#Copa Colombia
+126, "Copa Colombia"
+
+#Superliga Colombiana
+131, "Superliga Colombiana"
+
+#JAPAN
+#J-League
+52, "J-League"
+
+#Emperor's Cup
+55, "Emperor's Cup"
+
+#Japanese Super Cup
+97, "Japanese Super Cup"
+
+#THAILAND
+#Thai League
+162, "Thai League"
+
+#Thai FA Cup
+164, "Thai FA Cup"
+
+#Thailand Champions Cup
+165, "Thailand Champions Cup"
+
+#INTERNATIONAL / NT
+#FIFA World Cup
+34, "FIFA World Cup"
+35, "FIFA World Cup Knockouts"
+1058, "FIFA World Cup"
+2082, "FIFA World Cup"
+3106, "FIFA World Cup"
+4130, "FIFA World Cup"
+5154, "FIFA World Cup"
+6178, "FIFA World Cup"
+7202, "FIFA World Cup"
+8226, "FIFA World Cup"
+
+#FIFA World Cup Qualifiers
+36, "FIFA World Cup Qualifiers"
+37, "FIFA World Cup Qualifiers"
+38, "FIFA World Cup Qualifiers"
+39, "FIFA World Cup Qualifiers"
+40, "FIFA World Cup Qualifiers"
+1060, "FIFA World Cup Qualifiers"
+2084, "FIFA World Cup Qualifiers"
+3108, "FIFA World Cup Qualifiers"
+4132, "FIFA World Cup Qualifiers"
+5156, "FIFA World Cup Qualifiers"
+6180, "FIFA World Cup Qualifiers"
+7204, "FIFA World Cup Qualifiers"
+8228, "FIFA World Cup Qualifiers"
+1061, "FIFA World Cup Qualifiers"
+1062, "FIFA World Cup Qualifiers"
+1063, "FIFA World Cup Qualifiers"
+2087, "FIFA World Cup Qualifiers"
+1064, "FIFA World Cup Qualifiers"
+2088, "FIFA World Cup Qualifiers"
+
+#Africa Cup of Nations
+46, "AFCON"
+
+#Copa America
+43, "Copa America"
+104, "Copa America"
+1128, "Copa America"
+2152, "Copa America"
+3176, "Copa America"
+
+#AFC Asian Cup
+44, "AFC Asian Cup"
+45, "AFC Asian Cup"
+1068, "AFC Asian Cup"
+2092, "AFC Asian Cup"
+3116, "AFC Asian Cup"
+4140, "AFC Asian Cup"
+
+#Euro 2020
+41, "Euro 2020"
+42, "Euro 2020"
+1065, "Euro 2020"
+2089, "Euro 2020"
+3113, "Euro 2020"
+4137, "Euro 2020"
+5161, "Euro 2020"
+6185, "Euro 2020"
+
+
+
+
+

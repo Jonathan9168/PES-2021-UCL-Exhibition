@@ -1,0 +1,112 @@
+<bill>
+  <condition stid="-1" compeid="100" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="icc" />
+  <condition stid="-1" compeid="101" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="icc" />
+  <condition stid="-1" compeid="102" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="icc" />
+  <condition stid="-1" compeid="8" hometeamid="-1" teamexclusion="-1" language="-1" region="0" title="-1" pattern="acl_pes" />
+  <condition stid="-1" compeid="8" hometeamid="-1" teamexclusion="-1" language="-1" region="1" title="-1" pattern="acl_pes" />
+  <condition stid="-1" compeid="8" hometeamid="-1" teamexclusion="-1" language="-1" region="2" title="-1" pattern="acl_wee" />
+  <condition stid="-1" compeid="8" hometeamid="-1" teamexclusion="-1" language="-1" region="3" title="-1" pattern="acl_wee" />
+  <condition stid="-1" compeid="33" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="euro" />
+  <condition stid="1" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="st001" />
+  <condition stid="2" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="st002" />
+  <condition stid="2" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="5" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="st005" />
+  <condition stid="6" compeid="10" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="seriea" />
+  <condition stid="6" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="st006" />
+  <condition stid="6" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="7" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="st007" />
+  <condition stid="7" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="10" compeid="14" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="primeira_liga" />
+  <condition stid="10" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="st010" />
+  <condition stid="10" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="11" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="st011" />
+  <condition stid="14" compeid="-1" hometeamid="1255" teamexclusion="0" language="-1" region="-1" title="-1" pattern="team_saopaulo" />
+  <condition stid="14" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="c_brasileiro" />
+  <condition stid="14" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="combrazil" />
+  <condition stid="16" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="c_brasileiro" />
+  <condition stid="16" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="st016" />
+  <condition stid="22" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="st022" />
+  <condition stid="24" compeid="-1" hometeamid="1248" teamexclusion="0" language="-1" region="-1" title="-1" pattern="team_framengo" />
+  <condition stid="24" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="c_brasileiro" />
+  <condition stid="24" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="combrazil" />
+  <condition stid="27" compeid="-1" hometeamid="50" teamexclusion="0" language="-1" region="-1" title="-1" pattern="team_argentina" /> 
+  <condition stid="27" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="st027" />
+  <condition stid="28" compeid="-1" hometeamid="50" teamexclusion="0" language="-1" region="-1" title="-1" pattern="team_argentina" /> 
+  <condition stid="28" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="st028" />
+  <condition stid="28" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="30" compeid="10" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="seriea" />
+  <condition stid="30" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="st030" />
+  <condition stid="30" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="33" compeid="-1" hometeamid="137" teamexclusion="0" language="-1" region="-1" title="-1" pattern="team_palmeiras" />
+  <condition stid="33" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="c_brasileiro" />
+  <condition stid="33" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="combrazil" />
+  <condition stid="34" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="c_brasileiro" />
+  <condition stid="34" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="combrazil" />
+  <condition stid="35" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="c_brasileiro" />
+  <condition stid="35" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="combrazil" />
+  <condition stid="36" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="c_brasileiro" />
+  <condition stid="36" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="combrazil" />
+  <condition stid="23" compeid="-1" hometeamid="52" teamexclusion="0" language="-1" region="-1" title="-1" pattern="team_japan" />
+  <condition stid="23" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="st023" />
+  <condition stid="23" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="41" compeid="12" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="ligue1" />
+  <condition stid="41" compeid="18" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="cp_france" />
+  <condition stid="41" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="myclub" />
+  <condition stid="41" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="49" compeid="117" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="lg_switz" />
+  <condition stid="49" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="myclub" />
+  <condition stid="49" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="48" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="konami" />
+  <condition stid="52" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="st052" />
+  <condition stid="59" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="c_brasileiro" />
+  <condition stid="59" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="combrazil" />
+  <condition stid="61" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="st061" />
+  <condition stid="61" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="st061_online" />
+  <condition stid="62" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="st062" />
+  <condition stid="62" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="63" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="st063" />
+  <condition stid="64" compeid="137" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="lg_scotland" />
+  <condition stid="64" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="myclub" />
+  <condition stid="64" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="65" compeid="137" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="lg_scotland" />
+  <condition stid="65" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="myclub" />
+  <condition stid="65" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="66" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="myclub" />
+  <condition stid="66" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="70" compeid="13" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="eredivisie" />
+  <condition stid="70" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="st070" />
+  <condition stid="70" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="71" compeid="13" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="eredivisie" />
+  <condition stid="71" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="myclub" />
+  <condition stid="71" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="74" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="st074" />
+  <condition stid="74" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="st074_online" />
+  <condition stid="79" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="c_brasileiro" />
+  <condition stid="79" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="combrazil" />
+  <condition stid="80" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="st080" />
+  <condition stid="81" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="c_brasileiro" />
+  <condition stid="81" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="combrazil" />
+  <condition stid="82" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="st082" />
+  <condition stid="60" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="myclub" />
+  <condition stid="60" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="-1" compeid="-1" hometeamid="52" teamexclusion="0" language="-1" region="-1" title="-1" pattern="team_japan" />
+  <condition stid="-1" compeid="-1" hometeamid="8" teamexclusion="0" language="-1" region="-1" title="-1" pattern="team_france" />
+  <condition stid="-1" compeid="-1" hometeamid="7" teamexclusion="0" language="-1" region="-1" title="-1" pattern="team_spain" /> 
+  <condition stid="-1" compeid="-1" hometeamid="10" teamexclusion="0" language="-1" region="-1" title="-1" pattern="team_nederland" />
+  <condition stid="-1" compeid="12" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="ligue1" />
+  <condition stid="-1" compeid="68" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="ligue2" />
+  <condition stid="-1" compeid="13" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="eredivisie" />
+  <condition stid="-1" compeid="21" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="c_brasileiro" />
+  <condition stid="-1" compeid="14" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="primeira_liga" />
+  <condition stid="-1" compeid="111" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="lg_belgium" />
+  <condition stid="-1" compeid="137" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="lg_scotland" />
+  <condition stid="-1" compeid="128" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="lg_denmark" />
+  <condition stid="-1" compeid="117" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="lg_switz" />
+  <condition stid="-1" compeid="18" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="cp_france" />
+  <condition stid="-1" compeid="10" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="seriea" />
+  <condition stid="-1" compeid="69" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="serieb" />
+  <condition stid="-1" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="0"  pattern="myclub" />
+  <condition stid="-1" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" onlinestatus="-1" pattern="konami" />
+  <condition stid="-1" compeid="-1" hometeamid="-1" teamexclusion="-1" language="-1" region="-1" title="-1" pattern="konami" />
+  <condition pattern="konami" />
+</bill>
