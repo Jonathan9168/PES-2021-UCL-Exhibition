@@ -5,10 +5,10 @@
 
 
 #EDIT MODE (Useful for sorting X Y patch positions)
-# 0, "Premier League"
+#0, "Liga bwin"
 
 #EXHIBITION
-# 65535, "UCL"
+#65535, "FIFA World Cup"
 
 #INTERNATIONAL / CLUB
 #UEFA Champions League
@@ -183,6 +183,9 @@
 90, "Johan Cruyff Shield"
 
 #PORTUGAL
+#Liga Betclic
+22, "Liga Betclic"
+
 #Taça de Portugal
 28, "Taça de Portugal"
 
@@ -299,19 +302,10 @@ SCOTLAND
 8226, "FIFA World Cup"
 
 #FIFA World Cup Qualifiers
-36, "FIFA World Cup Qualifiers"
 37, "FIFA World Cup Qualifiers"
 38, "FIFA World Cup Qualifiers"
 39, "FIFA World Cup Qualifiers"
 40, "FIFA World Cup Qualifiers"
-1060, "FIFA World Cup Qualifiers"
-2084, "FIFA World Cup Qualifiers"
-3108, "FIFA World Cup Qualifiers"
-4132, "FIFA World Cup Qualifiers"
-5156, "FIFA World Cup Qualifiers"
-6180, "FIFA World Cup Qualifiers"
-7204, "FIFA World Cup Qualifiers"
-8228, "FIFA World Cup Qualifiers"
 1061, "FIFA World Cup Qualifiers"
 1062, "FIFA World Cup Qualifiers"
 1063, "FIFA World Cup Qualifiers"
@@ -336,6 +330,17 @@ SCOTLAND
 2092, "AFC Asian Cup"
 3116, "AFC Asian Cup"
 4140, "AFC Asian Cup"
+
+#Euro Qualifiers
+36, "UEQ"
+1060, "UEQ"
+2084, "UEQ"
+3108, "UEQ"
+4132, "UEQ"
+5156, "UEQ"
+6180, "UEQ"
+7204, "UEQ"
+8228, "UEQ"
 
 #Euro 2020
 41, "Euro 2020"
